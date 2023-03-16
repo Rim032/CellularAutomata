@@ -1,4 +1,4 @@
-## Celluar Automata
+## Cellular Automata
 ### Description
 
 This is a program that simulates simple automata that are represented as singular white pixels. These automata follow rules directly based on "Conway's Game of Life." They can form continous patterns, die off and get stuck.
