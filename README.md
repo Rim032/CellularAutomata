@@ -8,9 +8,9 @@ This is a program that simulates simple lifeforms that are represented as singul
 I was interested in diving into C++, it's been incredibly easy so far; they weren't wrong, it's pretty similar to C. I only have to get used to some syntax changes and some new useful components. But, there's another reason. I just found more documentation on graphic libraries used by C++ than C#. :)
 
 ### Controls
-R: Reset/Startover    
-SHIFT: "Speedup time"    
-CONTROL: "Slowdown time"    
+#### R: Reset/Startover    
+#### SHIFT: "Speedup time"    
+#### CONTROL: "Slowdown time"    
 
 ### Misc.
 
