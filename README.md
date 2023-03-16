@@ -16,5 +16,6 @@ CONTROL: "Slowdown time"
 
 Note: If there are any bugs/issue please let me know.
 
+
 ![celluar_automata_s0](https://user-images.githubusercontent.com/45215785/225775858-f67043bc-c1c0-4db6-a189-b15764efe152.JPG)
 ![celluar_automata_s1](https://user-images.githubusercontent.com/45215785/225775868-1f47a3a3-58a6-4b3a-b087-5aca5cc03f31.JPG)
