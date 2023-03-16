@@ -15,6 +15,7 @@ I was interested in diving into C++, it's been incredibly easy so far; they were
 ### Misc.
 
 Note: If there are any bugs/issue please let me know.
+Graphics were made with ### olcPixelGameEngine ### (https://github.com/OneLoneCoder/olcPixelGameEngine)
 
 
 ![celluar_automata_s0](https://user-images.githubusercontent.com/45215785/225775858-f67043bc-c1c0-4db6-a189-b15764efe152.JPG)
