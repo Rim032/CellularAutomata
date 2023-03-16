@@ -1,11 +1,11 @@
 ## Celluar Automata
 ### Description
 
-This is a program that simulates simple lifeforms that are represented as singular white pixels. These automata follow rules directly based on "Conway's Game of Life." They can form continous patterns, die off and get stuck.
+This is a program that simulates simple automata that are represented as singular white pixels. These automata follow rules directly based on "Conway's Game of Life." They can form continous patterns, die off and get stuck.
 
 ### Reason
 
-I was interested in diving into C++, it's been incredibly easy so far; they weren't wrong, it's pretty similar to C. I only have to get used to some syntax changes and some new useful components. But, there's another reason. I just found more documentation on graphic libraries used by C++ than C#. :)
+I was interested in diving into C++, it's been incredibly easy so far; they weren't wrong, it's pretty similar to C. I only have to get used to a few syntax changes and some new useful components. But, there's another reason. I just found more documentation on graphic libraries used by C++ than C#. :)
 
 ### Controls
 #### R: Reset/Startover    
